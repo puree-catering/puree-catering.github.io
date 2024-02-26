@@ -1,40 +1,18 @@
 ---
 tags: 
- - jekyll
- - github
-description: Getting started with Tw-Jekyll
+ - setup
+description: Getting started with Puree
 author:
-  name: Vanessa Sochat
-  github: vsoch
+  name: Iain Walker
+  github: irwalker
 ---
 
 ## Features
 
-### User Interaction
+### Items
 
+### Menu Headers
 
-On the right side of any page, you'll notice links to edit the page, or
-open an issue. This ensures that any time you have a question or want to 
-suggest or request a change, you can do so immediately and link directly
-to the section of interest. The sections on the page also have permalinks (¶) so
-you can link directly to them.
-
-### Search
-
-The entire site, including posts and documentation, is indexed and then available
-for search at the top or side of the page. Give it a try! The content is rendered
-into window data that is used by lunr.js to generate the search results.
-If you want to exclude any file from search, add this to its front end matter:
-
-```
----
-layout: null
-excluded_in_search: true
----
-```
-
-The example above is for a javascript file in the assets folder that is used as a template,
-but should not be included in search.
 
 ### External Search
 

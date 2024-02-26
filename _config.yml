@@ -39,9 +39,9 @@ add_permalinks: true
 twitter: vsoch
 linkedin: vsochat
 support: https://github.com/vsoch/tw-jekyll/issues
-repo: https://github.com/vsoch/tw-jekyll
-github_user: vsoch
-github_repo: tw-jekyll
+repo: https://github.com/puree-catering/help.puree.app
+github_user: puree-catering
+github_repo: help.puree.app
 # discord: https://community.discord.com
 
 # If you have a logo, put here to include in meta tags
