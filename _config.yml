@@ -14,19 +14,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: tw-jekyll
-email: your-email@domain.com
+title: Puree Help
+email: email@puree.app
 author: Dinosaur Avocado
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
+  Puree helpsite.
+  It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 
 # Add your baseurl here (your repository) but DO NOT CHANGE THE LINE NUMBER without editing .circleci/circle_urls.sh
-baseurl: "/tw-jekyll" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 
 # This is mostly for testing
-url: "https://vsoch.github.io" # the base hostname & protocol for your site
+url: "https://puree.app" # the base hostname & protocol for your site
 
 # Keywords (space separated)
 keywords: "documentation theme"
@@ -45,7 +45,7 @@ github_repo: tw-jekyll
 # discord: https://community.discord.com
 
 # If you have a logo, put here to include in meta tags
-logo: assets/img/tw-jekyll.png
+logo: assets/img/puree.png
 
 # branch to edit on GitHub
 github_branch: main

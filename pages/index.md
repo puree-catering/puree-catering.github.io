@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tw-Jekyll Theme
+title: Puree Helpsite
 permalink: /
 ---
 
