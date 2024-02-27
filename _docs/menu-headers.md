@@ -3,7 +3,7 @@ title: Creating and using Menu Headers
 description: Creating and using `Menu Headers`
 ---
 
-Welcome to our guide on effectively utilising menu headers within Puree to enhance the clarity and layout of your catering quotes.
+{% include callout.html text="We hope this guide helps you make the most out of Puree's menu headers feature, streamlining your quote presentations and improving client satisfaction. If you have any questions or need further assistance, don't hesitate to reach out." %}
 
 ## Understanding Menu Headers
 
@@ -21,20 +21,18 @@ To start using menu headers:
 
 Once you've set up your desired menu headers, applying them to quotes is straightforward:
 
-1. **Edit Your Quote:** From the quote you're working on, proceed to edit mode.
+1. **Assign Menu Headers:** For each item in your quote, select the appropriate menu header from the designated column. This process allows you to group items under the correct headers like "Lunch Items" or "Morning Tea."
 
-2. **Assign Menu Headers:** For each item in your quote, select the appropriate menu header from the designated column. This process allows you to group items under the correct headers like "Lunch Items" or "Morning Tea."
-
-3. **Save and Review:** After assigning the menu headers to your satisfaction, save your changes. You'll immediately notice that the quote now groups items according to your specified headers, providing a cleaner and more organised presentation.
+2. **Save and Review:** After assigning the menu headers to your satisfaction, save your changes. You'll immediately notice that the quote now groups items according to your specified headers, providing a cleaner and more organised presentation.
 
 ## The Benefits
 
 - **Enhanced Clarity:** With items neatly grouped under menu headers, your clients can easily understand the layout of their orders.
 - **Professional Presentation:** Organised quotes reflect the high quality of your service, contributing to a positive impression on your clients.
 
-{% include callout.html text="We hope this guide helps you make the most out of Puree's menu headers feature, streamlining your quote presentations and improving client satisfaction. If you have any questions or need further assistance, don't hesitate to reach out." %}
-
 ## Watch our video on Menu Headers  
 <!-- Loom Video Below -->
 
 {% include video_embed.html id="2191640ea4ad411c9a6d3b2effcf8f3e" %}
+
+
