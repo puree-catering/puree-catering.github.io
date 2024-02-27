@@ -12,6 +12,8 @@
           url: "docs/getting-started#customization"
     - title: "Menu headers"
       url: "docs/menu-headers"
+    - title: "Creating items and categories"
+      url: "docs/items-and-categories"
 - title: "Extras"
   url: "docs/extras"
   links:
