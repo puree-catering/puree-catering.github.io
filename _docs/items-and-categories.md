@@ -17,7 +17,7 @@ Before adding items, it's essential to set up categories that reflect the differ
 
 2. **Manage Categories:** Within 'Menu Items,' find the option to manage categories. This is where you'll create new categories specific to your needs, such as "Breakfast" or "Desserts."
 
-3. **Add a New Category:** Click on 'Create New Category' and name it appropriately, for example, "Test" for demonstration purposes. You can also rearrange the order of categories to match the flow of your service.
+3. **Add a New Category:** Click on 'Create New Category' and name it appropriately, for example, "Baking" might be your catergory name for all items made by your pastry team. You can also rearrange the order of categories to match the flow of your service.
 
 ## Adding Items
 
