@@ -3,19 +3,23 @@
   links:
     - title: "Getting Started"
       url: "docs/getting-started"
-      children:
-        - title: Features
-          url: "docs/getting-started#getting-started"
-        - title: Development
-          url: "docs/getting-started#development"
-        - title: Customization
-          url: "docs/getting-started#customization"
-    - title: "Menu headers"
-      url: "docs/menu-headers"
+    - title: "Adding new users"
+      url: "docs/new-users"
     - title: "Creating items and categories"
       url: "docs/items-and-categories"
+    - title: "Creating a quote"
+      url: "docs/basic-quote"
+    - title: "Menu headers"
+      url: "docs/menu-headers"
     - title: "Tagging quotes / orders"
       url: "docs/tags"
+    - title: "Venue management"
+      url: "docs/venues"
+    - title: "Connecting with Xero"
+      url: "docs/xero"
+    - title: "Managing deposits"
+      url: "docs/deposits"
+
 - title: "Extras"
   url: "docs/extras"
   links:
