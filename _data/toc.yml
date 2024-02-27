@@ -7,6 +7,8 @@
       url: "docs/new-users"
     - title: "Creating items and categories"
       url: "docs/items-and-categories"
+    - title: "Creating and using commentary templates"
+      url: "docs/commentary-templates"
     - title: "Creating a quote"
       url: "docs/basic-quote"
     - title: "Menu headers"
@@ -19,6 +21,8 @@
       url: "docs/xero"
     - title: "Managing deposits"
       url: "docs/deposits"
+    - title: "Including event staff in quotes"
+      url: "docs/staff"
 
 - title: "Extras"
   url: "docs/extras"

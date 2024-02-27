@@ -12,9 +12,7 @@ Our platform facilitates efficient communication, real-time order tracking, and 
 
 By choosing <b>[Puree.app](https://www.puree.app)</b>, you are not just adopting a software solution; you are gaining a partner dedicated to enhancing the operational efficiency of your catering business. We invite you to explore the benefits of our platform and how it can support the growth and success of your enterprise.
 
-{% include callout.html text="Thank you for considering Puree. We look forward to the possibility of supporting your catering business." %}
-
-
-Andrew Hemphill and Iain Walker  
-<b>Founders - Puree Limited</b>  
-<i>A company registered in Wellington, New Zealand
+{% include callout.html text="Thank you for considering Puree. We look forward to the possibility of supporting your catering business.
+<br><br>
+Andrew Hemphill and Iain Walker <br>
+Founders - Puree Limited  " %}
