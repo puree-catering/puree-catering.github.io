@@ -5,6 +5,14 @@ permalink: /
 ---
 
 # Within [Puree](https://puree.app) we offer both the Help Center and tutorial videos2.
+- title: "Getting Started"
+  url: "docs/getting-started"
+- title: "Menu headers"
+  url: "docs/menu-headers"
+- title: "Creating items and categories"
+  url: "docs/items-and-categories"
+- title: "Tagging quotes / orders"
+  url: "docs/tags"
 
 We offer the following options to help answer your questions:
 - A personal demo and walkthrough of Puree and its features (contact email@puree.app to book a time)
