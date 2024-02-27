@@ -16,6 +16,8 @@
       url: "docs/items-and-categories"
     - title: "Tagging quotes / orders"
       url: "docs/tags"
+    - title: "Xero"
+      url: "docs/xero"
 - title: "Extras"
   url: "docs/extras"
   links:

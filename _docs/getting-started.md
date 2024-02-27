@@ -2,9 +2,6 @@
 tags: 
  - setup
 description: Getting started with Puree
-author:
-  name: Iain Walker
-  github: irwalker
 ---
 
 ## Features
