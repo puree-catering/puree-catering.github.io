@@ -1,5 +1,5 @@
-- title: Documentation
-  url: docs
+- title: "Documentation"
+  url: "docs"
   links:
     - title: "Getting Started"
       url: "docs/getting-started"
@@ -11,6 +11,8 @@
       url: "docs/terms"
     - title: "Creating and using commentary templates"
       url: "docs/commentary-templates"
+    - title: "Task management"
+      url: "docs/tasks"
     - title: "Creating a quote"
       url: "docs/basic-quote"
     - title: "Menu headers"
@@ -21,19 +23,20 @@
       url: "docs/venues"
     - title: "Connecting with Xero"
       url: "docs/xero"
-    - title: "Managing external supppliers"
+    - title: "Managing external suppliers"
       url: "docs/external-suppliers"
     - title: "Managing deposits"
       url: "docs/deposits"
+    - title: "Consolidated item view"
+      url: "docs/consolidated-items"
     - title: "Including event staff in quotes"
       url: "docs/staff"
-
+    - title: "Reports"
+      url: "docs/reports"
 - title: "Extras"
   url: "docs/extras"
   links:
     - title: "About"
-      url: "about"
+      url: "docs/about"
     - title: "News"
-      url: "news"
-    - title: Tags 
-      url: "tags"
+      url: "docs/news"
