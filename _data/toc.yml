@@ -14,6 +14,8 @@
       url: "docs/menu-headers"
     - title: "Creating items and categories"
       url: "docs/items-and-categories"
+    - title: "Tagging quotes / orders"
+      url: "docs/tags"
 - title: "Extras"
   url: "docs/extras"
   links:
