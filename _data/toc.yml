@@ -41,6 +41,6 @@
   url: "docs/extras"
   links:
     - title: "About"
-      url: "docs/about"
+      url: "about"
     - title: "News"
-      url: "docs/news"
+      url: "news"

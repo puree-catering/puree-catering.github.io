@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Puree Helpsite
+title: Puree.app Help 
 permalink: /
 ---
 
