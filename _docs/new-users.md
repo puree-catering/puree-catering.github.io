@@ -15,7 +15,11 @@ Ensure you're logged into Puree with an account that has administrative privileg
 
 2. **Access User Management:** Within the account details, find and click on the 'Users' button. This section lists all current users and provides the option to invite new ones.
 
+{% include image.html image='users_1.png' %}
+
 3. **Invite New User:** Click on 'Invite a New User'. You'll be prompted to enter the new user's name and email address.
+
+{% include image.html image='users_2.png' %}
 
 ## Setting User Roles
 
@@ -24,6 +28,8 @@ Ensure you're logged into Puree with an account that has administrative privileg
     - **Member:** Members have restricted access, suitable for team members who don't require full administrative privileges.
 
 2. **Send the Invitation:** After setting the role, send out the invitation. The new user will receive an email inviting them to join your Puree account.
+
+{% include image.html image='users_3.png' %}
 
 ## Finalising the Setup
 
