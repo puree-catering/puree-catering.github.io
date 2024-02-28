@@ -1,18 +1,10 @@
 ---
 layout: page
-title: Puree.app Help 
+title: Puree.app Help
 permalink: /
 ---
 
-# Within [Puree](https://puree.app) we offer both the Help Center and tutorial videos2.
-- title: "Getting Started"
-  url: "docs/getting-started"
-- title: "Menu headers"
-  url: "docs/menu-headers"
-- title: "Creating items and categories"
-  url: "docs/items-and-categories"
-- title: "Tagging quotes / orders"
-  url: "docs/tags"
+# Within [Puree](https://puree.app) we offer both the Help Center and tutorial videos.
 
 We offer the following options to help answer your questions:
 - A personal demo and walkthrough of Puree and its features (contact email@puree.app to book a time)
@@ -21,4 +13,12 @@ We offer the following options to help answer your questions:
 
 {% include callout.html text="We're here to help make Puree a success story for your business. Don't hesitate to get in touch if you have any questions." %}
 
-For getting started with development, see the {% include doc.html name="Getting Started" path="getting-started" %} page. Would you like to request a feature or contribute? [Open an issue]({{ site.repo }}/issues)
+{% assign toc = site.data.toc %} <!-- Load the toc.yml data -->
+{% for section in toc %}
+### {{ section.title }}
+{% if section.links %}
+  {% for link in section.links %}
+- [{{ link.title }}]({{ link.url | prepend: site.baseurl }})
+  {% endfor %}
+{% endif %}
+{% endfor %}
