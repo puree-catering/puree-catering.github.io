@@ -15,9 +15,17 @@ Before adding items, it's essential to set up categories that reflect the differ
 
 1. **Access Menu Items:** From the main dashboard, navigate to the 'Menu Items' section to start organising your offerings.
 
+{% include image.html image='items_2.png' %}
+
 2. **Manage Categories:** Within 'Menu Items,' find the option to manage categories. This is where you'll create new categories specific to your needs, such as "Breakfast" or "Desserts."
 
+{% include image.html image='items_3.png' %}
+
 3. **Add a New Category:** Click on 'Create New Category' and name it appropriately, for example, "Baking" might be your catergory name for all items made by your pastry team. You can also rearrange the order of categories to match the flow of your service.
+
+{% include image.html image='items_4.png' %}
+
+{% include image.html image='items_5.png' %}
 
 ## Adding Items
 
@@ -30,6 +38,8 @@ With your categories set, adding items is the next step:
 3. **Menu and Quote Appearance:** Specify how the item should appear in the customer menu and quote. You have the option to adjust the item name for these displays, ensuring it's presented in the most appealing way.
 
 4. **Exclusions and Delivery Suitability:** Decide if the item should be excluded from the customer menu or quote based on its value or relevance. Additionally, indicate whether the item is suitable for delivery orders, which helps in preparing delivery-specific quotes.
+
+{% include image.html image='items_1.png' %}
 
 ## The Benefits
 
