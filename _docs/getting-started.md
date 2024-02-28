@@ -3,12 +3,12 @@ title: Getting Started with Puree.app - First Steps for New Users
 description: Kickstart your journey with Puree.app by following these initial setup steps to optimize your catering business operations.
 ---
 
-{% include callout.html text="Welcome to Puree.app! Let's get your catering business set up for success with a few simple steps.  
-<br><br>
-Before you get going however, we strongly recommend a personalised demonstration through Zoom where we provide a really good overview and answer any specific questions you might have. Let us know and we will be happy to set that up for you." %}
+{% include callout.html text="Before you get going however, we strongly recommend a personalised demonstration through Zoom where we provide a really good overview and answer any specific questions you might have. Let us know and we will be happy to set that up for you." color="#ffcccc" %}
 
-## Welcome to Puree.app
 
+
+## Welcome to Puree.app  
+<br>
 Thank you for choosing Puree.app! This guide will walk you through the initial steps you need to take after signing up to ensure your account is fully configured and ready to streamline your catering operations.
 
 ## Initial Setup Guide

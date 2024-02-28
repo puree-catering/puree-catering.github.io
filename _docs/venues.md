@@ -16,6 +16,8 @@ To access the venue management feature, it must first be enabled on your account
 1. **Contact Support:** Reach out to Puree support to request the activation of the venue management feature on your account.
 2. **Access the Feature:** Once enabled, you will notice a new 'Venues' button on your dashboard, allowing you to start adding and managing venues.
 
+{% include image.html image='venue_1.png' %}
+
 ## Adding Venues
 
 Creating a new venue is straightforward:
@@ -30,10 +32,16 @@ Venues in Puree require two main components: reservations and items.
 - **Reservations:** These are time slots that can be booked for the venue, such as all-day hires or wedding hires. Each reservation can have a specific charge associated with it.
 - **Items:** These include additional charges related to the venue, such as cleaning fees, equipment rentals (e.g., gas heaters, sound systems), and any other venue-specific charges.
 
+{% include image.html image='venue_3.png' %}
+
 ### Adding Reservations and Items
 
 1. **Define Reservations:** Set up various reservation types based on your needs, specifying the duration and associated cost for each.
 2. **List Venue Items:** Add items that can be charged in addition to the reservation fee, specifying the price for each item.
+
+{% include image.html image='venue_6.png' %}
+
+{% include image.html image='venue_4.png' %}
 
 ## Venue Reservations Calendar
 
@@ -49,6 +57,10 @@ When preparing a quote, the venue component is prominently displayed:
 1. **Select Venue and Reservation:** In the quote editor, you can select the desired venue and specify the reservation type, start time, and end time.
 2. **Add Venue Items:** Choose any additional venue-related items to include in the quote.
 3. **Customize with Commentary:** Add custom text to provide context or additional information about the venue booking in the quote.
+
+{% include image.html image='venue_7.png' %}
+
+{% include image.html image='venue_2.png' %}
 
 ## Custom Templates
 
