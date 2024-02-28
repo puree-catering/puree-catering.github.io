@@ -1,7 +1,7 @@
 - title: "Documentation"
   url: "docs"
   links:
-    - title: "Getting Started"
+    - title: "Getting Started - first steps for new users"
       url: "docs/getting-started"
     - title: "Adding new users"
       url: "docs/new-users"

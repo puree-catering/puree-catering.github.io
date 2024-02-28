@@ -17,11 +17,15 @@ Task management is a core feature of Puree, designed to help caterers organise a
 2. **Create a Task:** Specify the task you need to accomplish, set a due date, and you’re set. Tasks are listed in order of their due dates.
 3. **Marking Tasks as Completed:** Once a task is completed, simply tick it off the list.
 
+{% include image.html image='tasks_1.png' %}
+
 ## Automated Tasks
 
 ### Setting Up Automated Tasks
 
 1. **Access Task Management:** Go to settings and select task management to view and configure automated tasks.
+
+{% include image.html image='tasks_2.png' %}
 
 ### Automated Task Options
 
