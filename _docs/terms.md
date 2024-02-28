@@ -20,11 +20,15 @@ Setting up clear terms and conditions for your catering services is crucial for 
 
 1. **Navigate to Settings:** From the main dashboard, locate and select the settings option to find the terms and conditions section.
 
+{% include image.html image='terms_2.png' %}
+
 ### Creating Terms and Conditions
 
 1. **Add New Terms:** Click on the option to add new terms and conditions.
 2. **Title and Content:** Give your terms a clear title and input the detailed conditions. This can be a general set for all services or specific to particular offerings.
 3. **Save:** Confirm and save your terms and conditions.
+
+{% include image.html image='terms_1.png' %}
 
 ### Managing Multiple Terms
 
@@ -34,6 +38,8 @@ Setting up clear terms and conditions for your catering services is crucial for 
 
 1. **Selecting Terms for a Quote:** When creating or editing a quote, you'll find an option to select the appropriate terms and conditions from your templates.
 2. **Customer Visibility:** The selected terms and conditions will be automatically included at the bottom of the customer's quote, ensuring they are aware of the policies before accepting.
+
+{% include image.html image='terms_3.png' %}
 
 ## Best Practices
 
