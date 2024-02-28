@@ -109,4 +109,12 @@ Clicking the "Re-authenticate with Xero" button will allow you to go through the
 authentication flow again, restoring the connection.
 
 Attempting to push any data to Xero with the connection broken will result in redirection
-to the integrations page, with a notice indicating the connection needs to be restored.%
+to the integrations page, with a notice indicating the connection needs to be restored.
+
+For further assistance, please contact Puree support.
+
+## Watch Our Tutorial on the Venue feature in Puree
+
+<!-- Loom Video Below -->
+{% include video_embed.html id="b75d20e2df0d48c29a3f97198bda441d" %}
+<br>
