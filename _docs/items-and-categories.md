@@ -41,6 +41,8 @@ With your categories set, adding items is the next step:
 
 {% include image.html image='items_1.png' %}
 
+{% include image.html image='items_6.png' %}
+
 ## The Benefits
 
 - **Organised Quotes:** Categories and items are the backbone of your quotes, ensuring they are well-structured and easy to navigate.
