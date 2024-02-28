@@ -12,11 +12,15 @@ description: Learn how to personalize your quotes with commentary templates, all
 1. **Navigate to Commentary Templates:** Find this option in the settings or tools menu.
 2. **View Available Templates:** Templates are organized by quote section for easy access.
 
+{% include image.html image='commentary_1.png' %}
+
 ### Creating a New Template
 
 1. **Select 'New Template':** Begin by choosing to create a new template.
 2. **Specify Template Details:** Give your template a name and select the applicable quote section, then enter the commentary text.
 3. **Save and Apply:** Once created, your new template will be available for selection in the relevant quote sections.
+
+{% include image.html image='commentary_2.png' %}
 
 ## How to Use Commentary Templates
 
@@ -25,6 +29,10 @@ description: Learn how to personalize your quotes with commentary templates, all
 1. **Edit Your Quote:** Start by selecting a quote to edit or by creating a new quote.
 2. **Choose Sections for Commentary:** Within the quote, navigate to the sections where you want to add commentary.
 3. **Insert or Select Template:** Type your personalised commentary directly or select from pre-made templates.
+
+{% include image.html image='commentary_3.png' %}
+
+{% include image.html image='commentary_4.png' %}
 
 ### Activating Commentary Sections
 
