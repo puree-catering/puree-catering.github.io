@@ -1,6 +1,6 @@
 ---
 title: Xero Integration
-description: Connecting to Xero and syncing Orders
+description: Streamline your catering business's financial processes by connecting Puree to Xero. This guide walks you through the setup and use of integrating Puree with Xero.
 ---
 
 Xero is cloud-based accounting software platform used by individuals as well as small and medium sized businesses.
