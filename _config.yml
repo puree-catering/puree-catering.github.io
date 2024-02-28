@@ -36,9 +36,9 @@ keywords: "Puree Help Documentation Support Guides"
 add_permalinks: true
 
 # Optional
-repo: https://github.com/puree-catering/help.puree.app
+repo: https://github.com/puree-catering/puree-catering.github.io
 github_user: puree-catering
-github_repo: help.puree.app
+github_repo: puree-catering.github.io
 # discord: https://community.discord.com
 
 # If you have a logo, put here to include in meta tags
