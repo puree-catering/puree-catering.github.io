@@ -21,9 +21,17 @@ Working with external suppliers is crucial for catering companies, especially wh
 1. **Open External Suppliers:** Navigate to the external suppliers section in Puree.
 2. **Create a New Supplier Entry:** Click on 'Add New Supplier' and enter their details, such as name, address, and email.
 
+{% include image.html image='external_supplier_2.png' %}
+
+{% include image.html image='external_supplier_3.png' %}
+
+{% include image.html image='external_supplier_4.png' %}
+
 ### Assigning Suppliers to Items
 
 - **Selecting Suppliers for Items:** When adding items into Puree, specify the external supplier.
+
+{% include image.html image='external_supplier_5.png' %}
 
 ## Managing Orders with External Suppliers
 
@@ -37,10 +45,18 @@ Working with external suppliers is crucial for catering companies, especially wh
 - **Navigate to External Supplier Orders:** Under the logistics menu, navigate to "external Supplier Orders" amd view all pending orders with your external suppliers.
 - **Update Order Details:** For each order, you will need to specify delivery or collection details, including dates and times.
 
+{% include image.html image='external_supplier_6.png' %}
+
+{% include image.html image='external_supplier_7.png' %}
+
 ### Emailing the Order to the Supplier
 
 1. **Email Order:** Once an order is ready, email the supplier directly from Puree with all the necessary details.
-2. **Confirmation:** Suppliers can confirm the order, which you can then mark as checked in Puree. If you have set this up in your tasks, an automated reminder task will be created. 
+2. **Confirmation:** Suppliers can confirm the order, which you can then mark as checked in Puree. If you have set this up in your tasks, an automated reminder task will be created. [Refer here](/docs/tasks)
+
+{% include image.html image='external_supplier_8.png' %}
+
+{% include image.html image='external_supplier_1.png' %}
 
 ## Best Practices
 
