@@ -4,7 +4,7 @@ title: Puree.app Help
 permalink: /
 ---
 
-# Within [Puree](https://puree.app) we offer both the Help Center and tutorial videos.
+## Within [Puree](https://puree.app) we offer both the Help Center and tutorial videos.
 
 We offer the following options to help answer your questions:
 - A personal demo and walkthrough of Puree and its features (contact email@puree.app to book a time)
