@@ -9,13 +9,19 @@ description: Discover how to use tags in Puree to categorise and easily retrieve
 
 Tags in Puree are flexible labels you can attach to your quotes or orders, enabling you to categorise and filter them based on various criteria such as event type, venue, or any other identifier relevant to your catering business.
 
+{% include image.html image='tags_2.png' %}
+
 ## Creating Tags
 
 Creating tags in Puree is straightforward. Here’s how you can start:
 
 1. **Access Tags:** Navigate to the 'Tags' section in Puree by clicking on the 'Tags' option from the settings menu.
 
+{% include image.html image='tags_1.png' %}
+
 2. **Add a New Tag:** If you're looking to add a new tag, simply click on the option to create one. You might name it based on specific event types like "Wedding" or venues like "Boat Shed."
+
+{% include image.html image='tags_6.png' %}
 
 3. **Customise Your Tag:** You can personalise each tag with a unique colour by using the colour slider, making it easier to distinguish between different tags at a glance.
 
@@ -27,7 +33,12 @@ Once you've created your tags, applying them to your quotes and orders is just a
 
 2. **Tag the Order:** Within the order or quote view, look for the 'Tag' action. Here, you'll see a list of your created tags. Select the tag you wish to apply.
 
+{% include image.html image='tags_5.png' %}
+{% include image.html image='tags_4.png' %}
+
 3. **View and Manage Tags:** Once applied, a coloured badge representing the tag will appear on the order or quote. You can add multiple tags to a single entry and remove them as needed by clicking the 'X' on the tag badge.
+
+{% include image.html image='tags_3.png' %}
 
 ## Benefits of Using Tags
 
