@@ -15,7 +15,11 @@ To start using menu headers:
 
 1. **Navigate to the Settings Screen:** Here, you can create and customise your menu headers. Whether you need just a few or several, Puree allows you the flexibility to tailor them to your needs. These headers are crucial for grouping items in your quotes precisely how you want.
 
+{% include image.html image='menuheader_1.png' %}
+
 2. **Creating Menu Headers:** Choose names that best describe the sections of your menu, such as "Lunch Items," "Morning Tea," or any other category relevant to your services. The demonstration account showcases some examples, but feel free to get creative!
+
+{% include image.html image='menuheader_2.png' %}
 
 ## Applying Menu Headers to Quotes
 
@@ -24,6 +28,8 @@ Once you've set up your desired menu headers, applying them to quotes is straigh
 1. **Assign Menu Headers:** For each item in your quote, select the appropriate menu header from the designated column. This process allows you to group items under the correct headers like "Lunch Items" or "Morning Tea."
 
 2. **Save and Review:** After assigning the menu headers to your satisfaction, save your changes. You'll immediately notice that the quote now groups items according to your specified headers, providing a cleaner and more organised presentation.
+
+{% include image.html image='menuheader_3.png' %}
 
 ## The Benefits
 
