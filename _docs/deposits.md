@@ -13,9 +13,15 @@ description: Learn how to request, track, and acknowledge deposits from customer
 
 2. **Save Changes:** After selecting the preferred deposit option and specifying the amount or percentage, save your changes.
 
+{% include image.html image='deposits_1.png' %}
+
 ## Customer Notification
 
 Upon saving, the quote will now reflect the deposit requirement. When customers view the quote, it clearly displays the deposit amount needed upon acceptance, ensuring transparency and setting clear expectations.
+
+{% include image.html image='deposits_3.png' %}
+
+{% include image.html image='deposits_2.png' %}
 
 ## Handling Accepted Quotes
 
@@ -25,11 +31,17 @@ Once a customer accepts a quote with a deposit requirement:
 
 2. **Record Deposit Receipt:** After receiving the deposit payment, go to the 'Actions' menu in Puree for the relevant quote and select 'Add Deposit Received'. Enter the amount received and the payment date. You can enter multiple deposit payments.
 
+{% include image.html image='deposits_5.png' %}
+
+{% include image.html image='deposits_6.png' %}
+
 3. **Refresh to Reflect Deposit:** Refreshing the page will show the deposit as received in Puree, providing a clear record of payment.
 
 ## Customer View
 
 The customer's view of the quote will now be updated to acknowledge the receipt of the deposit. It will display the total deposits received and their dates, reassuring customers their payments have been accounted for.
+
+{% include image.html image='deposits_4.png' %}
 
 ## Tracking Deposits
 
@@ -37,7 +49,11 @@ To overview all deposits:
 
 1. **Access Deposits Held:** Navigate to the 'Admin' section and select 'Deposits Held'. This area provides a summary of all deposits, including those pending payment.
 
+{% include image.html image='deposits_7.png' %}
+
 2. **Manage Deposits:** Use this feature to track unpaid deposits, enabling follow-ups with customers as needed.
+
+{% include image.html image='deposits_8.png' %}
 
 ## Watch Our Tutorial on the Venue feature in Puree
 

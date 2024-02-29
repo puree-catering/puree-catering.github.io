@@ -9,6 +9,8 @@ description: A comprehensive guide on how to utilise the Consolidated Item View 
 
 The Consolidated Item View in Puree is designed to help your team efficiently prepare for upcoming catering orders by providing a summarised view of all items required for the next 7 days and beyond.
 
+{% include image.html image='consolidated_1.png' %}
+
 ## Accessing the Consolidated Item View
 
 To access this feature:
