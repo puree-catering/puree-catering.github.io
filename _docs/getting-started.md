@@ -81,6 +81,4 @@ Remember, the initial effort you invest in configuring your Puree.app environmen
 
 Thank you for choosing Puree.app. We're excited to be part of your journey to catering excellence.
 
-{% include callout.html text="Ready to make your catering operations seamless and more efficient? Dive in and make the most of all the features Puree.app has to offer. Here's to a fruitful partnership and many successful events ahead!" color="#ffcccc" %}
-
 
