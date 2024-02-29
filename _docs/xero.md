@@ -16,8 +16,7 @@ Quotes or orders created in Puree can be synced with Xero.
 
 ### Generate tax invoices for your customers
 
-When you connect to Xero, you will have the option to link orders to Xero. This will create an invoice in Xero, with
-a summary of the various item categories rolled up into line items.
+When you connect to Xero, you will have the option to link your Puree quotes/orders to Xero. This will create an `draft` invoice in Xero, with a summary of the various item categories rolled up into line items.
 
 Invoices can be linked to existing customers you have setup in Xero, or Puree gives the option of creating new customer
 records directly in Xero.
@@ -33,6 +32,9 @@ In your Xero chart of accounts you need to have an account setup to receive Sale
 
 1. Click on the "Menu" slider in the top right corner.
 1. Click "Integrations"
+
+{% include image.html image='xero_2.png' %}
+
 1. Click "Connect to Xero". This will direct you to log into your Xero account and authorise access to Puree. You'll be
    redirected back to Puree when you're finished.
 1. Setup your Puree settings:
