@@ -29,6 +29,8 @@ Once a customer accepts a quote with a deposit requirement:
 
 1. **Invoice the Deposit:** Through your invoicing system (e.g., Xero, MYOB), create and send an invoice for the deposit amount to the customer.
 
+{% include callout.html text="Please be aware that the invoicing and processing of deposits occur outside of Puree. While Puree enables you to communicate deposit requirements within your quotes, the actual invoicing and payment tracking are managed through your chosen invoicing system (e.g., Xero, MYOB). Once a deposit is received, Puree serves to acknowledge the payment within the system, and for your customer to see that when they view their quote." color="#ffcccc" %}
+
 2. **Record Deposit Receipt:** After receiving the deposit payment, go to the 'Actions' menu in Puree for the relevant quote and select 'Add Deposit Received'. Enter the amount received and the payment date. You can enter multiple deposit payments.
 
 {% include image.html image='deposits_5.png' %}
