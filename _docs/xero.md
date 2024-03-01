@@ -33,12 +33,12 @@ In your Xero chart of accounts you need to have an account setup to receive Sale
 STEP 1: Click on the "Menu" slider in the top right corner.  
 STEP 2: Click "Integrations"
 
-{% include image.html image='xero_2.png' %}
+{% include image.html image='Xero_2.png' %}
 
 STEP 3: Click "Connect to Xero". This will direct you to log into your Xero account and authorise access to Puree. You'll be
    redirected back to Puree when you're finished.
 
-   {% include image.html image='xero_4.png' %}
+   {% include image.html image='Xero_4.png' %}
 
 STEP 4: Setup your Puree settings:  
     - map categories of items to the appropriate account from your Xero organisation's chart of accounts:  
@@ -53,13 +53,13 @@ STEP 4: Setup your Puree settings:
       automatically sent to Xero  
     - Choose the default number of days before a Xero invoice is due  
 
-{% include image.html image='xero_1.png' %}
+{% include image.html image='Xero_1.png' %}
 
 STEP 5: Click "save" to complete your Xero integration setup.  
 
 At anytime you can update the settings or disconnect from Xero.
 
-{% include image.html image='xero_5.png' %}
+{% include image.html image='Xero_5.png' %}
 
 ## Linking orders with Xero
 
@@ -69,25 +69,25 @@ have setup your Xero integration, you will now see an invoicing section, with
 
 STEP 1: Click the "Link to Xero" button for quotes you want to send to Xero.
 
-{% include image.html image='xero_6.png' %}
+{% include image.html image='Xero_6.png' %}
 
 STEP 2: You can either create a new contact in Xero, or select an existing Xero contact. The list of Xero contacts is regularly updated with your contacts from Xero.  
 
-{% include image.html image='xero_7.png' %}
+{% include image.html image='Xero_7.png' %}
 
-{% include image.html image='xero_8.png' %}
+{% include image.html image='Xero_8.png' %}
 
 STEP 3: Select the date you want the Xero invoice to be due. It will default to the order date plus the configured number of days before the invoice is due.
 
-{% include image.html image='xero_9.png' %}
+{% include image.html image='Xero_9.png' %}
 
 STEP 4: Click save, and you will receive a message notifying that the sync was successful, along with a link if you want to immediately view the invoice in Xero.
 
-{% include image.html image='xero_10.png' %}
+{% include image.html image='Xero_10.png' %}
 
 {% include callout.html text="Note that Xero invoices will use your default tax settings based on the Tax Information in the Account Details page. For example, if you have configured sales tax 'GST' at 15.0%, that will flow through to the Xero invoice." %}
 
-{% include image.html image='xero_11.png' %}
+{% include image.html image='Xero_11.png' %}
 
 ## Background syncing
 
