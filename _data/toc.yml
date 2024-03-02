@@ -35,6 +35,8 @@
       url: "docs/consolidated-items"
     - title: "Including event staff in quotes"
       url: "docs/staff"
+    - title: "Managing quote expiry dates"
+      url: "docs/expiry-dates"
     - title: "Reports"
       url: "docs/reports"
 - title: "Extras"
