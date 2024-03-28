@@ -41,6 +41,8 @@
       url: "docs/expiry-dates"
     - title: "Reports"
       url: "docs/reports"
+    - title: "Your subscription and Paddle"
+      url: "docs/subscription-payment"
 - title: "Extras"
   url: "docs/extras"
   links:
