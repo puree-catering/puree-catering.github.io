@@ -7,11 +7,11 @@ description: Understand how Puree partners with Paddle to streamline your subscr
 
 ## Why Puree Uses Paddle
 
-Puree partners with Paddle, a leading payment processing platform, to manage all aspects of subscription payments and sales tax obligations. This collaboration allows Puree to focus on providing the best catering software experience without the complexities of global tax law compliance.
+Puree partners with [Paddle](https://www.paddle.com), a leading payment processing platform, to manage all aspects of subscription payments and sales tax obligations on the subscription amount. This collaboration allows Puree to focus on providing the best catering software experience without the complexities of global tax law compliance.
 
-1. **Simplifying Sales Tax**: Paddle takes on the responsibility of managing sales tax across different jurisdictions, relieving Puree from the intricate task of sales tax calculation in the various places around the world that our customer's are located.
+1. **Simplifying Sales Tax**: Paddle takes on the responsibility of managing sales tax on the subscription you pay across different jurisdictions, relieving Puree from the intricate task of sales tax calculation in the various places around the world that our customer's are located.
 
-2. **Seamless Subscription Management**: By handling payments through Paddle, Puree ensures a smooth, uninterrupted service for you. Paddle’s robust system takes care of billing cycles, failed payment retries, and subscription renewals.
+2. **Seamless Subscription Management**: By handling the subscription payments through Paddle, Puree ensures a smooth, uninterrupted service for you. Paddle’s robust system takes care of billing cycles, failed payment retries, and subscription renewals.
 
 ## Your Relationship with Paddle
 
@@ -19,11 +19,11 @@ When you subscribe to Puree, your billing relationship is with Paddle. This mean
 
 - **Paddle as the Merchant**: Technically, you're a customer of Paddle, which processes payments, manages invoices, and handles sales tax for your subscription.
 - **Receipts and Payments**: Your subscription receipts and payment confirmations come directly from Paddle, providing clarity and transparency about your expenses.
-- **Receipts and Payments**: It's important for customers to understand their responsibilities regarding local sales tax on Paddle subscription payments. 
+- **Understand your own responsibilities**: It's important for customers to understand their responsibilities regarding local sales tax on Paddle subscription payments. 
 
 ### New Zealand Customers
 
-For customers in New Zealand, there's a specific consideration. Services supplied from overseas can be exempt from GST. If you're a New Zealand customer, providing your GST number to Paddle could qualify you for this exemption as they are a UK company. To take advantage of the GST exemption, New Zealand customers must provide their GST number to Paddle. This process exempts you from GST charges on your subscription fees, aligning with the exemption policy for overseas services. However, whether or not you provide your GST number, Paddle will ensure the correct handling of sales tax, keeping the net cost to you unchanged. i.e. you will either claim GST back in your expenses if you pay GST on your subscription. If you dont pay GST, you will not be able to claim it. 
+For customers in New Zealand, there's a specific consideration. Services supplied from overseas can be exempt from GST. If you're a New Zealand customer, providing your GST number to Paddle could qualify you for this exemption as they are a UK company. To take advantage of the GST exemption, New Zealand customers must provide their GST number to Paddle. This process exempts you from GST charges on your subscription fees, aligning with the exemption policy for overseas services. However, whether or not you provide your GST number, Paddle will ensure the correct handling of sales tax, keeping the net cost to you unchanged. i.e. you will either claim GST back in your expenses if you pay GST on your subscription, or if you dont pay GST on your subscription, you will not be able to claim it. 
 
 ## Managing Your Subscription
 
