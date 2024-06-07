@@ -28,6 +28,14 @@ with Xero yet, you can sign up for a free trial." %}
 
 In your Xero chart of accounts you need to have an account setup to receive Sales at a minimum.
 
+## Data flow - What does this integration do?
+
+Puree pulls your customer, invoice and prepayment data from Xero.
+
+Puree pushes the quote data into your xero account to create an invoice in Xero. Puree will also create a contact in Xero if you require it to i.e. setup a new contact in Xero to match your Puree quote customer.
+
+   {% include image.html image='Xero_14.png' %}
+
 ## Setting up Xero synchronisation in Puree
 
 STEP 1: Click on the "Menu" slider in the top right corner.  
