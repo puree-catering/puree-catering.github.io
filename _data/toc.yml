@@ -41,6 +41,10 @@
       url: "docs/expiry-dates"
     - title: "Reports"
       url: "docs/reports"
+    - title: "Two Factor Authentication"
+      url: "docs/2FA"
+    - title: "Your subscription and Paddle"
+      url: "docs/subscription-payment"
 - title: "Extras"
   url: "docs/extras"
   links:
