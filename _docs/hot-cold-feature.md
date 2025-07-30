@@ -11,8 +11,7 @@ The Hot/Cold feature in Puree allows you to set delivery temperature options for
 
 ## Video Tutorial
 
-            <div style="position: relative; padding-bottom: 73.66984993178718%; height: 0; overflow: hidden; max-width: 100%; background: #000;"><iframe src="https://www.loom.com/embed/13b00047ab9b4be1b4df3be0cd1a7e28?sid=40790f4d-379b-45e4-83a2-07c419060c47&hide_owner=true&hide_share=true&hideEmbedTopBar=true" " 
-            frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 73.66984993178718%; height: 0; overflow: hidden; max-width: 100%; background: #000;"><iframe src="https://www.loom.com/embed/13b00047ab9b4be1b4df3be0cd1a7e28?sid=40790f4d-379b-45e4-83a2-07c419060c47&hide_owner=true&hide_share=true&hideEmbedTopBar=true" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ## Setting Up Delivery Temperature Options
 
